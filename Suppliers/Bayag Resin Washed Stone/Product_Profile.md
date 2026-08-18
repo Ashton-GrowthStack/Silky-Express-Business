@@ -1,70 +1,82 @@
 # BAYAG Washed Stone - Product Profile
 
-**Supplier:** Bayag (China)
-**Status:** Premium/Exclusive Product
+**Supplier:** Bayag (China)  
+**Status:** Premium/Exclusive Product  
+**Product:** 100% Solids UV-Resistant Polyurethane Resins
 
 ---
 
-## Key Product Information
+## TWO PRODUCT LINES
 
-### Product Specification
-- **Type:** 100% Solids UV-Resistant Polyurethane Resin
-- **Technology:** Patented Exclusively
-- **Quality Level:** HIGHEST in China (per supplier claim)
-- **Market Position:** Premium product - reason for large customer base
+### Product 1: GROUND/FLOOR WASHED STONE ⛏️
 
-### Key Features
-✅ **100% Solids** - No filler, pure material
-✅ **UV-Resistant** - Won't fade in sunlight  
-✅ **Patented Technology** - Exclusive formulation
-✅ **High Quality** - Market-leading in China
+**System Type:** Two-Component System
 
----
+**Components:**
+- 2 bottles of resin
+- Colored stones (separate)
+- Packaged in buckets
 
-## Applications
-- Decorative interior/exterior coating
-- Washed stone finish (home décor)
-- Professional craftsman product
+**CRITICAL - Mixing Process:**
+- ⚠️ **CANNOT mix at factory**
+- ⚠️ **MUST mix on-site only**
+- Reason: Mixing causes material to solidify in bucket
+- Application: Must be mixed and applied immediately on-site
+
+**Use:** Flooring/Ground applications
 
 ---
 
-## Documentation Received
-1. **TDS (Technical Data Sheet)** - 水洗石TDS报告
-   - Product specifications
-   - Performance characteristics
-   - Application guidelines
+### Product 2: WALL WASHED STONE 🏠
 
-2. **MSDS (Material Safety Data Sheet)** - 水洗石-MSDS英文
-   - Safety information
-   - Chemical composition
-   - Health & environmental data
+**System Type:** Single-Component System
 
----
+**Components:**
+- Single-component paste product
+- Made from waterproof lotion
+- Pre-mixed at factory ✅
+- **Ready to use immediately** - Open and apply
 
-## Next Steps
+**Included in Barrel:**
+- Primer
+- Topcoat  
+- Main product
+- All packaged for easy application & sales
 
-### For Client Verification:
-- [ ] Confirm application/use case
-- [ ] Specify quantity needed
-- [ ] Confirm color/finish requirements
-- [ ] Verify South Africa compatibility (climate, regulations)
-- [ ] Quality testing requirements
-- [ ] Certification/compliance needed
-
-### From Supplier:
-- [ ] Extract TDS specs
-- [ ] Extract MSDS details
-- [ ] Get pricing
-- [ ] Get MOQ (Minimum Order Quantity)
-- [ ] Get shelf life information
+**Use:** Wall/Interior-Exterior applications
 
 ---
 
-## Client Questions to Ask
+## Key Features (Both Products)
+✅ 100% Solids - Pure material, no filler
+✅ UV-Resistant - Won't fade
+✅ Patented Technology - Exclusive formulation
+✅ Highest Quality in China
 
-1. **What is the specific use?** (Interior walls? Exterior? Flooring?)
-2. **What quantity do they need?**
-3. **What color/finish?**
-4. **Do they need certifications?** (SABS, ISO, etc for SA)
-5. **Application method?** (Spray, roller, trowel?)
-6. **Performance requirements?** (Durability, slip resistance, etc)
+---
+
+## Critical Client Questions
+
+**For GROUND/FLOOR Product:**
+1. Can they apply/mix on-site?
+2. Do they have trained applicators?
+3. What's the pot life after mixing?
+4. Temperature/humidity requirements?
+
+**For WALL Product:**
+1. Interior or exterior?
+2. Wall type (concrete, plaster)?
+3. Color/finish preference?
+4. Application method (spray/trowel)?
+
+**For Both:**
+1. Quantity needed?
+2. Climate/environment (South Africa)?
+3. Certifications needed (SABS)?
+4. Delivery timeline?
+
+---
+
+## Documents to Extract
+1. **TDS** - Specifications for both products
+2. **MSDS** - Safety info for both products
