@@ -8,73 +8,74 @@
 ## SECTION 1: BASIC SHIPMENT INFORMATION
 
 ### Product Details
-- [ ] **Product Name/Type:** _______________
-- [ ] **Brand:** _______________
-- [ ] **Specification/Model:** _______________
-- [ ] **Total Quantity:** _______________ units
-- [ ] **Supplier/Manufacturer Name:** _______________
-- [ ] **Supplier Location:** _______________
+- [x] **Product Name/Type:** Automotive Tires
+- [x] **Brand:** ROADKING (ARGOS Series)
+- [x] **Specification/Model:** ARGOS UHP, AX5, AX9 (various sizes)
+- [x] **Total Quantity:** 710 units
+- [x] **Supplier/Manufacturer Name:** SINOTYRE TECHNOLOGY (HANGZHOU) CO., LTD
+- [x] **Supplier Location:** Qingdao, China / Hangzhou, Zhejiang Province
 
 ### Cargo Weight & Dimensions
-- [ ] **Total Gross Weight:** _______________ kg
-- [ ] **Total Net Weight:** _______________ kg *(for tax calculations)*
-- [ ] **Estimated Volume:** _______________ cubic meters
-- [ ] **Individual Unit Weight:** _______________ kg
+- [x] **Total Gross Weight:** 12,340 kg (with packaging)
+- [x] **Total Net Weight:** ~12,000 kg *(for tax calculations)*
+- [x] **Estimated Volume:** 20 cubic meters
+- [x] **Individual Unit Weight:** ~21 kg average per tire
 
 ### Pricing Information (From Supplier)
-- [ ] **FOB Price (Qingdao/Origin):** USD _______________
-- [ ] **Incoterm:** FOB / CIF / Other: _______________
-- [ ] **Currency:** USD / RMB / Other: _______________
-- [ ] **Invoice Number:** _______________
+- [x] **FOB Price (Qingdao/Origin):** USD $15,917.50
+- [x] **Incoterm:** CIF (Cost, Insurance, Freight to Durban)
+- [x] **Currency:** USD
+- [x] **Invoice Number:** SIC2629005LT
 
 ---
 
 ## SECTION 2: SHIPPING ROUTE & LOGISTICS
 
 ### Origin Port
-- [ ] **Port of Loading:** _______________
-- [ ] **Country:** _______________
-- [ ] **Address:** _______________
+- [x] **Port of Loading:** Qingdao Port
+- [x] **Country:** China
+- [x] **Address:** Qingdao, Shandong Province, China
 
 ### Destination Ports (Specify all required)
-- [ ] **Port 1:** _______________ 
-- [ ] **Port 2:** _______________
-- [ ] **Port 3:** _______________
-- [ ] **Country:** South Africa / Other: _______________
+- [x] **Port 1:** Durban 
+- [x] **Port 2:** Cape Town
+- [x] **Port 3:** (Optional - alternate route)
+- [x] **Country:** South Africa
 
 ### Container Requirements
-- [ ] **Container Type:** 
-  - [ ] 20ft GP (General Purpose)
+- [x] **Container Type:** 
+  - [x] **20ft GP (General Purpose)** ✅ CONFIRMED
   - [ ] 20ft HC (High Cube)
   - [ ] 40ft GP
   - [ ] 40ft HQ (High Cube)
   - [ ] LCL (Less than Container Load)
-- [ ] **Number of Containers:** _______________
-- [ ] **Confirmation from Supplier:** (Supplier confirms container type? Y/N)
+- [x] **Number of Containers:** 1 x 20ft GP
+- [x] **Confirmation from Supplier:** YES ✅ (SINOTYRE confirmed 20ft GP in sales contract SIC2629005LT)
 
 ---
 
 ## SECTION 3: SHIPPING TERMS & CONDITIONS
 
 ### Incoterm Specification
-- [ ] **Agreed Incoterm:** 
+- [x] **Agreed Incoterm:** 
   - [ ] FOB (Free on Board) - *Supplier loads, buyer pays freight*
-  - [ ] CIF (Cost, Insurance, Freight) - *Seller covers to destination*
+  - [x] **CIF (Cost, Insurance, Freight)** ✅ - *Seller (SINOTYRE) covers freight to Durban*
   - [ ] Other: _______________
 
-### Shipping Costs (Request from Agent)
-- [ ] **Freight Cost (Per Container):** USD _______________
-- [ ] **Port Handling (Origin):** USD _______________
-- [ ] **Documentation/Customs Fee:** USD _______________
-- [ ] **Insurance (if included):** USD _______________
-- [ ] **Delivery to Final Destination:** USD _______________
-- [ ] **Total Shipping Cost:** USD _______________
+### Shipping Costs (From SINOTYRE Quote)
+- [x] **Freight Cost (Per Container - 20ft to Durban):** USD $3,200
+- [ ] **Port Handling (Origin):** USD (included in freight)
+- [ ] **Documentation/Customs Fee:** USD TBD
+- [x] **Insurance (if included):** USD (Buyer covers from Durban onward per CIF terms)
+- [ ] **Delivery to Final Destination (Durban warehouse):** USD TBD
+- [x] **Total Shipping Cost (FOB + Freight):** USD $19,117.50
 
 ### Timeline
-- [ ] **Lead Time (Order to Shipment):** _______________ days
-- [ ] **Transit Time (Port to Port):** _______________ days
-- [ ] **Estimated Arrival:** _______________
-- [ ] **Buffer for Delays:** _______________ days
+- [x] **Lead Time (Order to Shipment):** 2-3 weeks
+- [x] **Transit Time (Qingdao to Durban):** 28-35 days
+- [x] **Transit Time (Qingdao to Cape Town):** 32-40 days
+- [ ] **Estimated Arrival:** (Varies by port selection)
+- [x] **Buffer for Delays:** 5-7 days recommended
 
 ---
 
@@ -83,16 +84,16 @@
 ### For South Africa Imports:
 
 **Tax & Duty Structure:**
-- [ ] **Customs Duty:** 30% of CIF value
-- [ ] **Anti-Dumping Duty:** 7-45% of CIF value *(varies by manufacturer)*
-- [ ] **Environment Levy:** R2.30 per kg of product
-- [ ] **VAT:** 15% of (CIF + Customs + Anti-Dumping + Environment Levy)
+- [x] **Customs Duty:** 30% of CIF value ✅ Confirmed
+- [x] **Anti-Dumping Duty:** 7-45% of CIF value *(varies by manufacturer)* ⏳ **ROADKING/SINOTYRE rate TBD**
+- [x] **Environment Levy:** R2.30 per kg of product ✅ Confirmed
+- [x] **VAT:** 15% of (CIF + Customs + Anti-Dumping + Environment Levy) ✅ Confirmed
 
 **Required Information for Tax Calculation:**
-- [ ] **Manufacturer Name:** _______________ *(affects anti-dumping rate)*
-- [ ] **Product Origin Country:** _______________
-- [ ] **Confirm Net Weight:** _______________ kg *(for environment levy calculation)*
-- [ ] **Harmonized Code (HS Code):** _______________
+- [x] **Manufacturer Name:** SINOTYRE TECHNOLOGY (HANGZHOU) CO., LTD *(affects anti-dumping rate - CRITICAL TO VERIFY)*
+- [x] **Product Origin Country:** China
+- [x] **Confirm Net Weight:** 12,000 kg *(for environment levy = R27,600 ≈ USD $1,700)*
+- [ ] **Harmonized Code (HS Code):** 4011.20.10 or 4011.30.10 (Automotive tires)
 
 **Port-Specific Questions:**
 - [ ] **Preferred Destination Port:**
