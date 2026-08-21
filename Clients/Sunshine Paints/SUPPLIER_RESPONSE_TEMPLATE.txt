@@ -1,0 +1,52 @@
+================================================================================
+QUICK RESPONSE TO SUPPLIER: "How many KG each day?"
+================================================================================
+
+COPY & SEND THIS (Customize numbers if needed):
+
+---
+
+Hi [Supplier Name],
+
+Great question. Here's our typical daily volume:
+
+DAILY PAINT VOLUME:
+- Number of daily color matches: 35-50 mixes
+- Average paint per mix: 1.5-2.5 liters
+- Daily volume: approximately 80-120 KG per day
+- Average day: ~100 KG
+- Peak days: ~150 KG
+
+BREAKDOWN BY MIX SIZE:
+- Small jobs (1-1.5L): 40% of mixes
+- Standard jobs (2-2.5L): 50% of mixes
+- Large jobs (5L+): 10% of mixes
+
+CURRENT SITUATION:
+- Currently manual mixing (2-5 min per color)
+- Want to upgrade to under 1 minute per color
+- Need consistent color accuracy (±0.1ml)
+
+BASED ON THIS VOLUME:
+- Which machine would you recommend? (Semi-auto or Full-auto?)
+- What's your throughput capability for this volume?
+- What would be your recommended model?
+
+Also please provide:
+1. Specific model recommendation with specs
+2. Expected mixes per hour
+3. Final pricing (all-inclusive to Durban)
+4. Lead time
+
+Thanks,
+[Your Name]
+
+---
+
+NOTES:
+- If you want to be more conservative, use "80 KG/day" instead of "100 KG/day"
+- If you want to emphasize growth potential, use "150 KG/day peak"
+- Paint density ~1.4 kg/liter is standard for automotive paint
+- This shows you know your business ✅
+
+================================================================================
