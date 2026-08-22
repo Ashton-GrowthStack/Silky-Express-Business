@@ -9,3 +9,6 @@ Archive of all meeting notes and decisions for Silky Express Business projects.
   - Workflow updates, project assignments, system references
   - High-ticket client contact list
   - File: `2026-08-22_Paint_Mixing_Company.md`
+
+- **2026-08-10** — Silky Express general meeting
+  - File: `2026-08-10_Silky_Express_MOM.docx`
